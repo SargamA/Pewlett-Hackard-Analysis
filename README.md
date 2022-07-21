@@ -5,7 +5,7 @@
  Determine the employees eligible for mentorship program. 
 
 ## Below Code identifies retiring employees for requirement 1
-![](Pewlett-Hackard-Analysis/Deliverable 1 code.png)
+![](C:\Users\Aaryan\Desktop\Bootcamp\Pewlett-Hackard-Analysis\Deliverable 1 code.png)
 
 
 ## Below Code identifies employees eligible for mentorship program for requirement 2
